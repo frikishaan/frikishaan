@@ -1,4 +1,4 @@
-![header-image](header.png)
+![header-image](./header.png)
 
 My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like learning new technologies and building things.
 
