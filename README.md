@@ -14,11 +14,10 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 - Machine Learning 
 - Data Structure & Algorithm
 
-### 🎯 My Goals for 2020
+### 🎯 My Goals for 2021
 - Read atleast 3 books
-- Learn Docker and other DevOps techniques
+- Master time management
 - Learn Machine Learning
-- Create a SaaS product (I haven't got any idea yet 😕)
 
 ### 🔗 Links
 - 📧 [Email](mailto:hey@frikishaan.com)
@@ -26,17 +25,3 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 - ⭐ [LinkedIn](https://www.linkedin.com/in/ishaan-s/)
 - 🖌 [Codepen](https://codepen.io/sheikh_ishaan/)
 - 🌐 [Website](https://frikishaan.com)
-<!--
-**sheikh005/sheikh005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
