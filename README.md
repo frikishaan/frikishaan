@@ -4,7 +4,13 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 
 ## 📕 Latest Blogs
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [C# Dictionary](https://frikishaan.comc-sharp-dictionary)
+- [C# Exception Handling](https://frikishaan.comc-sharp-exception-handling)
+- [C# Loops](https://frikishaan.comc-sharp-loops)
+- [C# Switch statement](https://frikishaan.comc-sharp-switch-statement)
+- [JavaScript Array methods](https://frikishaan.comjavascript-array-methods)
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
 - 📧 [Email](mailto:hey@frikishaan.com)
