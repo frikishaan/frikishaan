@@ -2,10 +2,6 @@
 
 My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like learning new technologies and building things.
 
-## ![header-image](https://raw.githubusercontent.com/sheikh005/sheikh005/master/header.png)
-
-My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like learning new technologies and building things.
-
 ## 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
