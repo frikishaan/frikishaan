@@ -5,11 +5,11 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 ## 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Array Methods](https://frikishaan.com/blog/c-sharp-array-methods)
 - [C# String Methods](https://frikishaan.com/blog/c-sharp-string-methods)
 - [C# Dictionary](https://frikishaan.com/blog/c-sharp-dictionary)
 - [C# Exception Handling](https://frikishaan.com/blog/c-sharp-exception-handling)
 - [C# Loops](https://frikishaan.com/blog/c-sharp-loops)
-- [C# Switch statement](https://frikishaan.com/blog/c-sharp-switch-statement)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
