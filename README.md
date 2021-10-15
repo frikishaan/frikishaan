@@ -18,3 +18,7 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 - ⭐ [LinkedIn](https://www.linkedin.com/in/ishaan-s/)
 - 🖌 [Codepen](https://codepen.io/sheikh_ishaan/)
 - 🌐 [Website](https://frikishaan.com)
+
+## Stats
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fsheikh005&label=Visitors&labelColor=%231abc9c&countColor=%23697689&style=flat-square)
