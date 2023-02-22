@@ -5,11 +5,11 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 ## 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Linode Object Storage with Laravel](https://frikishaan.com/blog/linode-object-storage-in-laravel)
 - [Count to 1 billion](https://frikishaan.com/blog/count-to-1-billion)
 - [Using Python list as a Stack](https://frikishaan.com/blog/using-python-list-as-a-stack)
 - [Null Coalescing Operator in C#](https://frikishaan.com/blog/null-coalescing-operator-in-c-csharp)
 - [C# Array Methods](https://frikishaan.com/blog/c-sharp-array-methods)
-- [C# String Methods](https://frikishaan.com/blog/c-sharp-string-methods)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
