@@ -13,7 +13,7 @@ My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer fro
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
-- 🐦 [Twitter](https://twitter.com/imishaan005)
+<!-- - 🐦 [Twitter](https://twitter.com/imishaan005) -->
 - ⭐ [LinkedIn](https://www.linkedin.com/in/ishaan-s/)
 - 🖌 [Codepen](https://codepen.io/sheikh_ishaan/)
 - 🌐 [Website](https://frikishaan.com)
