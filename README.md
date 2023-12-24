@@ -1,15 +1,11 @@
 ![header-image](https://raw.githubusercontent.com/sheikh005/sheikh005/master/header.png)
 
-My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like learning new technologies and building things.
+My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like building things.
 
-## 📕 Latest Blogs
+<!-- ## 📕 Latest Blogs -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Linode Object Storage with Laravel](https://frikishaan.com/blog/linode-object-storage-in-laravel)
-- [Using Python list as a Stack](https://frikishaan.com/blog/using-python-list-as-a-stack)
-- [Null Coalescing Operator in C#](https://frikishaan.com/blog/null-coalescing-operator-in-c-csharp)
-- [C# Array Methods](https://frikishaan.com/blog/c-sharp-array-methods)
-- [C# String Methods](https://frikishaan.com/blog/c-sharp-string-methods)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
