@@ -2,7 +2,7 @@
 
 Hey there, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like building things.
 
-<!-- ## 📕 Latest Blogs -->
+## 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Full-text search with SQLite](https://frikishaan.com/blog/full-text-search-with-sqlite/)
