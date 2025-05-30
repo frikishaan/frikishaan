@@ -5,7 +5,11 @@ Hey there, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software e
 <!-- ## 📕 Latest Blogs -->
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Full-text search with SQLite](https://frikishaan.com/blog/full-text-search-with-sqlite/)
+- [Running Ollama on Windows](https://frikishaan.com/blog/ollama-on-windows/)
+- [2024 in review](https://frikishaan.com/blog/2024/)
+- [Speed up database seeding in Laravel](https://frikishaan.com/blog/speed-up-database-seeding-in-laravel/)
+- [70 hours work week](https://frikishaan.com/blog/70-hours-work-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
