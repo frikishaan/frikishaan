@@ -1,6 +1,6 @@
-![header-image](https://raw.githubusercontent.com/frikishaan/frikishaan/master/header.png)
+# Ishan Sheikh
 
-My name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like building things.
+Hey there, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like building things.
 
 <!-- ## 📕 Latest Blogs -->
 
