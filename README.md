@@ -1,6 +1,6 @@
 # Ishan Sheikh
 
-Hey there, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like building things.
+Hello, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software engineer from India. I like building things.
 
 ## 📕 Latest Blogs
 
