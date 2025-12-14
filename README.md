@@ -5,11 +5,11 @@ Hello, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software engin
 ## 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Neural Network Learns - Step-by-Step Math with a Simple PyTorch Model](https://frikishaan.com/blog/how-neural-networks-learn/)
 - [Learning with LLMs](https://frikishaan.com/blog/learning-with-llms/)
 - [LLM Demystified: How a Computer Turns Words into Magic](https://frikishaan.com/blog/llms-demystified/)
 - [Gemini CLI](https://frikishaan.com/blog/gemini-cli/)
 - [Full-text search with SQLite](https://frikishaan.com/blog/full-text-search-with-sqlite/)
-- [Running Ollama on Windows](https://frikishaan.com/blog/ollama-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Links
