@@ -5,7 +5,7 @@ Hello, my name is [Ishaan Sheikh](https://frikishaan.com). I am a software engin
 ## 📕 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Training a small 124M language model](https://frikishaan.com/blog/training-small-language-model-from-scratch/)
+- [Training a small 124M parameters language model from scratch](https://frikishaan.com/blog/training-small-language-model-from-scratch/)
 - [2025 in review](https://frikishaan.com/blog/2025/)
 - [How a Neural Network Learns - Step-by-Step Math with a Simple PyTorch Model](https://frikishaan.com/blog/how-neural-networks-learn/)
 - [Learning with LLMs](https://frikishaan.com/blog/learning-with-llms/)
